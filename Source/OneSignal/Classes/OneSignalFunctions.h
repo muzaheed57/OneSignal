@@ -15,3 +15,4 @@ public:
 	static void InitJavaFunctions();
 #endif
 
+};
